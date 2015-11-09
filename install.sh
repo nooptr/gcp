@@ -7,6 +7,7 @@ alias glist='gcloud compute instances list'
 alias gsh='gcloud compute ssh'
 alias gup='gcloud compute instances start'
 alias gdown='gcloud compute instances stop'
+alias grm='gcloud compute instances delete'
 " >> ~/.aliases
 
 source ~/.aliases
